@@ -1,2 +1,4 @@
 # kobutsky-runner
-Simple Rust app to run .NET ClickOnce apps in Kiiosk mode as default shell
+
+The Simple app on `Rust` to run `.NET ClickOnce` apps in Kiosk mode as default shell
+Also, my first app on the Rust.
